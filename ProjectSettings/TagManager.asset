@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Obstacle
+  - Enemy
+  - Monster3
+  - Monster4
+  - Checkpoint
+  - Monster5
+  - Monster2
+  - Monster
+  - Question
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Floor
+  - Charcter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrund
+    uniqueID: 2793446179
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: blade
+    uniqueID: 1188180309
+    locked: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3077c6d12374ed04c8a04388c16c08ff, type: 3}
+  m_Name: Vegetables 2
+  m_EditorClassIdentifier: 
+  questions:
+  - imageQues: {fileID: 21300000, guid: 2af60a9507751324f825d89040708b41, type: 3}
+    indonesiaKata: Jahe
+    answerInggris: Ginger
+  - imageQues: {fileID: 21300000, guid: a73874a9b94e04a448ab3b9c981bdbfe, type: 3}
+    indonesiaKata: Lada
+    answerInggris: Pepper
+  - imageQues: {fileID: 21300000, guid: d6b78eef8c69f8449aebc2e66fb4d314, type: 3}
+    indonesiaKata: Kedelai
+    answerInggris: Soybean
+  - imageQues: {fileID: 21300000, guid: 5cfe58030fd89ae459e34442dcb11709, type: 3}
+    indonesiaKata: Bayam
+    answerInggris: Spinach
+  - imageQues: {fileID: 21300000, guid: 14160cb5f75a562419438ae31e27b043, type: 3}
+    indonesiaKata: Tomat
+    answerInggris: Tomato
